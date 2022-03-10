@@ -1,8 +1,1 @@
-git is a distributed version control system
-git is free software distributed under the GPL
-Git has a mutable index called stage
-hello
-123123123123123123
-456456
-888888888888888888888812312313213
-678
+1
